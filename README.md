@@ -5,4 +5,4 @@ A text file called WasteSpace.txt is created in the directory where the program 
 
 Provide the size of WasteSpace.txt as a commandline argument, or as input in the program.
 
-Speed: about 5 seconds per gigabyte
+Speed: 2 seconds per gigabyte
