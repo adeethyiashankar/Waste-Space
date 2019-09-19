@@ -30,7 +30,7 @@ int main(int argv, char* argc[])
 		printf("%.2f GB will be wasted\n\n", mbgb);
 	}
 	std::string add = std::string(1048576, '0');
-for (int i = 0; i < num; i++)
+	for (int i = 0; i < num; i++)
 	{
 		std::string add = std::string(1048576, '0');
 		del << add;
