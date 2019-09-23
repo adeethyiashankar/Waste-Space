@@ -4,5 +4,3 @@ Waste space on your PC
 A text file called WasteSpace.txt is created in the directory where the program is run, filled to the specified size in megabytes.
 
 Provide the size of WasteSpace.txt as a commandline argument, or as input in the program.
-
-Speed: 2 seconds per gigabyte
